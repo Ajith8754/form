@@ -1,0 +1,8 @@
+body{
+    background-color: aqua;
+}
+button{
+    width: 400px;
+    background-color: green;
+    border-radius: 50px;
+}
